@@ -103,8 +103,3 @@ Contributions are welcome! Please follow these steps to contribute to the projec
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-## Contact
-
-1. [GITHUB](https://github.com/Ananya01Agrawal)
-2. [LINKEDIN](https://www.linkedin.com/in/ananya-agrawal-9727b2230/)
