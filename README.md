@@ -38,7 +38,7 @@ Homyz is a modern real estate web application built with the MERN (MongoDB, Expr
 1. Clone the repository:
 
    bash
-   git clone https://github.com/Ananya01Agrawal/Real-estate-Booking-Website.git
+   git clone (This Repo URL)
    
 
 2. Change into the project directory:
