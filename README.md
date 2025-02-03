@@ -4,7 +4,7 @@
 
 modern real estate web application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a platform for users to search, list, book,  and explore various properties, whether for sale or rent. The application offers a user-friendly interface, advanced search options, and a seamless user experience.
 
-![image](https://github.com/Ananya01Agrawal/Real-estate-Booking-Website/assets/99130567/9dce86bd-771c-493a-821f-bce92039c688)
+![image](https://github.com/Jay-Thoriya/Real_estate_website/blob/main/output_photo/main.png)
 
 
 ## Features
@@ -25,12 +25,13 @@ modern real estate web application built with the MERN (MongoDB, Express.js, Rea
 
 - *Property Details and Descriptions*: Each property listing should have comprehensive details and descriptions, including property features, room dimensions, amenities, nearby attractions, and any unique selling points. High-quality images and virtual tours can provide a more immersive experience for users.
 
-- ![image](https://github.com/Ananya01Agrawal/Real-estate-Booking-Website/assets/99130567/a49e7fd3-68cf-4e35-ab2a-d88d279fb5a1)
+- ![image](https://github.com/Jay-Thoriya/Real_estate_website/blob/main/output_photo/list_pro.png)
 
-![image](https://github.com/Ananya01Agrawal/Real-estate-Booking-Website/assets/99130567/a4f9bd34-9c94-40ea-ad42-8b2d66723028)
+![image](https://github.com/Jay-Thoriya/Real_estate_website/blob/main/output_photo/add_pro.png)
 
-![image](https://github.com/Ananya01Agrawal/Real-estate-Booking-Website/assets/99130567/43de1959-9201-4f0e-99e5-47faac7eb177)
+![image](https://github.com/Jay-Thoriya/Real_estate_website/blob/main/output_photo/pro_info.png)
 
+![image](https://github.com/Jay-Thoriya/Real_estate_website/blob/main/output_photo/chatbot.jpg)
 
 
 ## Installation
